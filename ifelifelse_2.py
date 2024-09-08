@@ -9,3 +9,7 @@ elif x==y:
     print("x y eşittir.")
 else:
     print("geçersiz biçim")
+
+    ######################
+
+
