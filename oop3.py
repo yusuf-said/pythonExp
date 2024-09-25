@@ -43,3 +43,6 @@ print(calisan.tel_no(gtelefon))
 
 
 
+
+
+
